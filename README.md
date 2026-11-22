@@ -52,11 +52,6 @@ I'm a second-year Artificial Intelligence & Machine Learning student passionate 
 
 Artificial Intelligence · Machine Learning · Software Engineering · Open Source · Building Projects
 
----
-
-> **Create. Learn. Improve. Repeat.**
-
----
 
 ## 📊 GitHub Stats
 
@@ -68,3 +63,10 @@ Artificial Intelligence · Machine Learning · Software Engineering · Open Sour
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Gaganrohit1101&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+> **Create. Learn. Improve. Repeat.**
+
+---
+
